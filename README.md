@@ -1,1 +1,1 @@
-# .github
+Welcome to Didactic.AI, a non-profit initiative firmly rooted in the ethos of transformative education. We recognize the critical issue in today's online educational environment: social media recommendation algorithms, which prioritize maximizing ad revenue through increased retention. Our mission? To provide a distinct, more enriching alternative.
